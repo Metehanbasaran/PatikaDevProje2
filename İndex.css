@@ -1,0 +1,22 @@
+#baslık{
+    color:red;
+    text-align: center;
+}
+#baglantı{
+    list-style-position: inside;
+    text-align: center;
+}
+#ortabaslık{
+    text-align: center;
+    color: blue;
+}
+#altbaslık{
+    text-align: center;
+    color: yellow;
+}
+#Aletler{
+    text-align: center;
+}
+#baglantı2{
+    display: inline-block;
+}

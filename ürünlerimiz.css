@@ -1,0 +1,16 @@
+#ortabaslık{
+    text-align: center;
+    color: blue;
+}
+#baslık{
+    text-align: center;
+    color: red;
+}
+#baglantı{
+    list-style-position: inside;
+    text-align: center;
+}
+#fotograflar{
+    list-style-position: inside;
+    text-align: center;
+}
